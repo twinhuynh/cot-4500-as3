@@ -37,3 +37,4 @@ For Euler Method & Runge-Kutta Method:
 For Matrices:
 - change the matrix if needed, the given matrix will be assigned to variable A.
 
+NOTE: This program does not need any library installation other than the basics that comes with python3, but it will be using the "Fraction" module to assist with keeping the numbers more accurate.
