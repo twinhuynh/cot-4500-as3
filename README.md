@@ -2,17 +2,17 @@ This program reads given details such as functions, range, iterations, and initi
 
 Two methods when given functions, range, interations, initial point:
 
-Euler Method
+- Euler Method
 
-Runge-Kutta Method
+- Runge-Kutta Method
 
 For the matrices:
 
-Gaussian Elimination & Backword Elimination
+- Gaussian Elimination & Backword Elimination
 
-LU Factorization
+- LU Factorization
 
-Cofactor Expansion & Eigenvalues
+- Cofactor Expansion & Eigenvalues
 
 to find approximate solutions, RREF matrix, L matrix, U matrix as well as determining if a matrix is diagonially dominate and/or positive.
 
